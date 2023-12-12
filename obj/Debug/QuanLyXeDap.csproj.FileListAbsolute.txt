@@ -1,0 +1,77 @@
+C:\Users\Acer\OneDrive\Máy tính\Anh Mạnh\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.QuanLyXe.resources
+C:\Users\Acer\OneDrive\Máy tính\Anh Mạnh\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Máy tính\Anh Mạnh\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Máy tính\Anh Mạnh\QuanLyXeDap\QuanLyXeDap\bin\Debug\QuanLyXeDap.exe.config
+C:\Users\Acer\OneDrive\Máy tính\Anh Mạnh\QuanLyXeDap\QuanLyXeDap\bin\Debug\QuanLyXeDap.exe
+C:\Users\Acer\OneDrive\Máy tính\Anh Mạnh\QuanLyXeDap\QuanLyXeDap\bin\Debug\QuanLyXeDap.pdb
+C:\Users\Acer\OneDrive\Máy tính\Anh Mạnh\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.Login.resources
+C:\Users\Acer\OneDrive\Máy tính\Anh Mạnh\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.exe
+C:\Users\Acer\OneDrive\Máy tính\Anh Mạnh\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.pdb
+C:\Users\Acer\OneDrive\Máy tính\Anh Mạnh\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.Menu.resources
+C:\Users\Acer\OneDrive\Máy tính\Anh Mạnh\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.DatHang.resources
+C:\Users\Acer\OneDrive\Máy tính\Anh Mạnh\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.TimKiemXe.resources
+C:\Users\Acer\OneDrive\Máy tính\Anh Mạnh\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.TongHopHoaDon.resources
+C:\Users\hp\Desktop\Thi\QuanLyXeDap\QuanLyXeDap\bin\Debug\QuanLyXeDap.exe.config
+C:\Users\hp\Desktop\Thi\QuanLyXeDap\QuanLyXeDap\bin\Debug\QuanLyXeDap.exe
+C:\Users\hp\Desktop\Thi\QuanLyXeDap\QuanLyXeDap\bin\Debug\QuanLyXeDap.pdb
+C:\Users\hp\Desktop\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.DatHang.resources
+C:\Users\hp\Desktop\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.TongHopHoaDon.resources
+C:\Users\hp\Desktop\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.TimKiemXe.resources
+C:\Users\hp\Desktop\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.Login.resources
+C:\Users\hp\Desktop\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.Menu.resources
+C:\Users\hp\Desktop\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.QuanLyXe.resources
+C:\Users\hp\Desktop\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.Properties.Resources.resources
+C:\Users\hp\Desktop\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.exe
+C:\Users\hp\Desktop\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.pdb
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap\QuanLyXeDap\bin\Debug\QuanLyXeDap.exe.config
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap\QuanLyXeDap\bin\Debug\QuanLyXeDap.exe
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap\QuanLyXeDap\bin\Debug\QuanLyXeDap.pdb
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.DatHang.resources
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.TongHopHoaDon.resources
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.TimKiemXe.resources
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.Login.resources
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.Menu.resources
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.QuanLyXe.resources
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.Properties.Resources.resources
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.exe
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.pdb
+C:\Users\Acer\OneDrive\Máy tính\Anh Mạnh\QuanLyXeDap\QuanLyXeDap\obj\Debug\QuanLyXeDap.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap -Lưu trữ\bin\Debug\QuanLyXeDap.exe.config
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap -Lưu trữ\bin\Debug\QuanLyXeDap.exe
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap -Lưu trữ\obj\Debug\QuanLyXeDap.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap -Lưu trữ\obj\Debug\QuanLyXeDap.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap -Lưu trữ\obj\Debug\QuanLyXeDap.DatHang.resources
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap -Lưu trữ\obj\Debug\QuanLyXeDap.TongHopHoaDon.resources
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap -Lưu trữ\obj\Debug\QuanLyXeDap.TimKiemXe.resources
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap -Lưu trữ\obj\Debug\QuanLyXeDap.Login.resources
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap -Lưu trữ\obj\Debug\QuanLyXeDap.Menu.resources
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap -Lưu trữ\obj\Debug\QuanLyXeDap.QuanLyXe.resources
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap -Lưu trữ\obj\Debug\QuanLyXeDap.Properties.Resources.resources
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap -Lưu trữ\obj\Debug\QuanLyXeDap.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap -Lưu trữ\obj\Debug\QuanLyXeDap.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap -Lưu trữ\obj\Debug\QuanLyXeDap.exe
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap -Lưu trữ\obj\Debug\QuanLyXeDap.pdb
+C:\Users\hp\Desktop\Màn hình\Thi\QuanLyXeDap -Lưu trữ\bin\Debug\QuanLyXeDap.pdb
+D:\VB2\3. Ki.III\Mẫu\bin\Debug\QuanLyXeDap.exe.config
+D:\VB2\3. Ki.III\Mẫu\bin\Debug\QuanLyXeDap.exe
+D:\VB2\3. Ki.III\Mẫu\bin\Debug\QuanLyXeDap.pdb
+D:\VB2\3. Ki.III\Mẫu\obj\Debug\QuanLyXeDap.csproj.AssemblyReference.cache
+D:\VB2\3. Ki.III\Mẫu\obj\Debug\QuanLyXeDap.DatHang.resources
+D:\VB2\3. Ki.III\Mẫu\obj\Debug\QuanLyXeDap.TongHopHoaDon.resources
+D:\VB2\3. Ki.III\Mẫu\obj\Debug\QuanLyXeDap.TimKiemXe.resources
+D:\VB2\3. Ki.III\Mẫu\obj\Debug\QuanLyXeDap.Login.resources
+D:\VB2\3. Ki.III\Mẫu\obj\Debug\QuanLyXeDap.Menu.resources
+D:\VB2\3. Ki.III\Mẫu\obj\Debug\QuanLyXeDap.QuanLyXe.resources
+D:\VB2\3. Ki.III\Mẫu\obj\Debug\QuanLyXeDap.Properties.Resources.resources
+D:\VB2\3. Ki.III\Mẫu\obj\Debug\QuanLyXeDap.csproj.GenerateResource.cache
+D:\VB2\3. Ki.III\Mẫu\obj\Debug\QuanLyXeDap.csproj.CoreCompileInputs.cache
+D:\VB2\3. Ki.III\Mẫu\obj\Debug\QuanLyXeDap.exe
+D:\VB2\3. Ki.III\Mẫu\obj\Debug\QuanLyXeDap.pdb
